@@ -1,1 +1,1 @@
-# lecture zero activity
+# lecture 0 activity
