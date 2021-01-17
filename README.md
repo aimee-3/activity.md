@@ -1,1 +1,1 @@
-# activity.md
+# lecture zero activity
