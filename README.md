@@ -11,5 +11,4 @@
 
 [Kelowna Edo Japan](https://www.edojapan.com/)
 
-![](./image_kona.jpg)
-My adorable dog
+![](./kona.jpg) My adorable dog
