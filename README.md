@@ -7,3 +7,4 @@
 [Kelowna Edo Japan](https://www.edojapan.com/)
 
 ![](./image_Kona.png)
+cannot get the pcture to work
